@@ -1,7 +1,6 @@
 **Зоран Луковић, наставник информатике**\
 :office: ОШ "Др Драгиша Мишовић" Чачак</br>
 :computer:[https://www.osdragisamisovic.edu.rs/](https://osdragisamisovic.edu.rs/)</br>
-![](https://komarev.com/ghpvc/zoranlukovic&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=zoranlukovic)
 
 
