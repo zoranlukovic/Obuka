@@ -2,6 +2,7 @@
 :office: ОШ "Др Драгиша Мишовић" Чачак</br>
 :computer:[https://www.osdragisamisovic.edu.rs/](https://osdragisamisovic.edu.rs/)</br>
 ![](https://komarev.com/ghpvc/zoranlukovic&style=flat-square)
+![](https://komarev.com/ghpvc/?username=zoranlukovic)
 
 
 [![Instagram](https://user-images.githubusercontent.com/96352499/217493357-24fc0189-6cd2-4b96-a2da-801a9cf00c14.png)](https://osdragisamisovic.edu.rs/)
